@@ -1,4 +1,4 @@
-### Hesap Makinesi
+# Hesap Makinesi
 Bu proje, HTML, CSS ve JavaScript kullanılarak yapılmış basit bir hesap makinesi uygulamasıdır. Hesap makinesi toplama, çıkarma, çarpma ve bölme işlemlerini destekler.
 
 ## Proje İçeriği
