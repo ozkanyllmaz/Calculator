@@ -2,6 +2,8 @@
 This project is a simple calculator application built using HTML, CSS, and JavaScript. The calculator supports addition, subtraction, multiplication, and division operations.
 
 ## Demo
+![Ekran görüntüsü 2024-08-11 134435](https://github.com/user-attachments/assets/c08e5a39-7d06-4ae5-a385-f0f8e59a26c8)
+
 
 ## Project Contents
 - `index.html`: Contains the HTML structure of the calculator.
