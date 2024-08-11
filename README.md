@@ -1,37 +1,41 @@
-# Hesap Makinesi
-Bu proje, HTML, CSS ve JavaScript kullanılarak yapılmış basit bir hesap makinesi uygulamasıdır. Hesap makinesi toplama, çıkarma, çarpma ve bölme işlemlerini destekler.
+# Calculator
+This project is a simple calculator application built using HTML, CSS, and JavaScript. The calculator supports addition, subtraction, multiplication, and division operations.
 
-## Proje İçeriği
-index.html: Hesap makinesinin HTML yapısını içerir.
-styles.css: Hesap makinesinin stil ve tasarımını belirler.
-script.js: Hesap makinesinin işlevselliğini sağlar.
-## Kurulum
-Projenizi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+## Demo
 
-Bu repo'yu bilgisayarınıza klonlayın:
+## Project Contents
+- `index.html`: Contains the HTML structure of the calculator.
+- `styles.css`: Defines the style and design of the calculator.
+- `script.js`: Provides the functionality of the calculator.
 
-bash
-Kodu kopyala
-git clone https://github.com/KULLANICI_ADINIZ/Hesap-Makinesi.git
-Proje dizinine gidin:
+## Installation
+To run your project, follow these steps:
 
-bash
-Kodu kopyala
-cd Hesap-Makinesi
-index.html dosyasını bir tarayıcıda açın.
+1. Clone this repo to your computer:
 
-## Kullanım
-Hesap makinesi uygulamasını tarayıcınızda açtığınızda, aşağıdaki işlevleri kullanabilirsiniz:
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/Calculator.git
+    ```
 
-Sayı Tuşları: Hesaplamalar için sayıları girin.
-Operatör Tuşları: Toplama (+), çıkarma (-), çarpma (*) ve bölme (/) işlemleri yapın.
-Decimal Tuşu: Ondalık sayı girişi yapın.
-Clear Tuşu: Girişi temizleyin.
+2. Navigate to the project directory:
 
-## Örnek Kullanım
-5 + 3 işlemini yapmak için:
-5 tuşuna basın
-+ tuşuna basın
-3 tuşuna basın
-Sonuç otomatik olarak ekranda gösterilecektir.
+    ```bash
+    cd Calculator
+    ```
 
+3. Open the `index.html` file in a browser.
+
+## Usage
+When you open the calculator application in your browser, you can use the following functions:
+
+- **Number Keys**: Enter numbers for calculations.
+- **Operator Keys**: Perform addition (+), subtraction (-), multiplication (*), and division (/) operations.
+- **Decimal Key**: Enter decimal numbers.
+- **Clear Key**: Clear the input.
+
+## Example Usage
+To perform the operation 5 + 3:
+1. Press the `5` key.
+2. Press the `+` key.
+3. Press the `3` key.
+4. The result will be displayed automatically on the screen.
